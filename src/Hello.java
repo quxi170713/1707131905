@@ -6,5 +6,6 @@ public class Hello {
     {
         System.out.println("hahahah");
         System.out.println("终于成功了");
+        System.out.println("用新的分支提交");
     }
 }
